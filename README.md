@@ -20,3 +20,8 @@ Welcome to my GitHub profile! My name is Kevin, and I'm thrilled to have you her
 - 💬 I'm an enthusiastic language learner and polyglot, fluent in 7 languages. Beyond coding, you'll find me immersed in foreign languages and engaging with international students on campus.
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect! Let's learn and grow together. 🌱
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevinliao2003&theme=dark&background=000000)](https://git.io/streak-stats)
