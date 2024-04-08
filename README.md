@@ -21,6 +21,12 @@ Welcome to my GitHub profile! My name is Kevin, and I'm thrilled to have you her
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect! Let's learn and grow together. 🌱
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kevinliao2003/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
