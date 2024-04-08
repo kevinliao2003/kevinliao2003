@@ -6,6 +6,9 @@
 
 ---
 
+Welcome to my GitHub profile! My name is Kevin, and I'm thrilled to have you here.
+
+---
 
 ## About Me ℹ️
 
